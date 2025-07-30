@@ -96,5 +96,3 @@
       name: shipping
 
   
-  # - name: import data into mysql
-  #   ansible.builtin.:
